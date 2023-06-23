@@ -31,5 +31,4 @@ const start = async () => {
   }
 };
 
-// Call the saveData function
 start();

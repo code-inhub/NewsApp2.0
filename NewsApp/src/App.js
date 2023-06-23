@@ -22,7 +22,6 @@ export default class App extends Component {
             color="#f11946"
             progress={this.state.progress}
           />
-
           <Route exact path="/general">
             <News
               setProgress={this.setProgress}
@@ -31,8 +30,17 @@ export default class App extends Component {
               country="in"
               category="general"
             />
-            ;
           </Route>
+          <Route exact path="/">
+            <News
+              setProgress={this.setProgress}
+              key="general"
+              pageSize={50}
+              country="in"
+              category="general"
+            />
+          </Route>
+          ;
           <Route exact path="/business">
             <News
               setProgress={this.setProgress}
