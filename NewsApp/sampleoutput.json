@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "What makes Arsenal's Saka & Nketiah see red?",
+            "description": "Arsenal's Bukayo Saka and Eddie Nketiah dish out red and yellow cards for various football and real-life dilemmas, such as whether pairing socks and sliders is OK.",
+            "url": "http://www.bbc.co.uk/sport/av/football/64964407",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2791/production/_128992101_p0f8vy82.jpg",
+            "publishedAt": "2023-03-16T06:52:14.5815426Z",
+            "content": "Arsenal team-mates Bukayo Saka and Eddie Nketiah dish out red and yellow cards for various football and real-life dilemmas, such as whether pairing socks and sliders is OK.\r\nWatch MOTDx from 20:00 GM… [+73 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Evacuated Afghan women's team included 'false' footballers",
+            "description": "Women footballers evacuated to the UK included some who were not the top players it was claimed.",
+            "url": "http://www.bbc.co.uk/news/world-64967941",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12B05/production/_128994567_afghanfootballer.jpg",
+            "publishedAt": "2023-03-16T06:22:21.3016087Z",
+            "content": "A high-profile evacuation to the UK of Afghan female footballers fleeing the Taliban included a number of women who were not the top-tier players that it was claimed, a BBC investigation has been tol… [+4257 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Programme TV foot : à quelle heure et sur quelle chaîne voir les matchs de ce soir (16 mars 2023) ?",
+            "description": "Retrouvez l'intégralité des retransmissions des matches de football du jour diffusés sur toutes les chaînes du bouquet TNT, Câble et Satellite. Ligue 1, Ligue 2, Premier League, coupes d'Europe... Suivez tous les matches en direct sur votre télévision ou en s…",
+            "url": "https://www.lequipe.fr/Football/Actualites/Programme-tv-foot-a-quelle-heure-et-sur-quelle-chaine-voir-les-matchs-de-ce-soir-16-mars-2023/1386119",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/-/1500000001560313/4:0,2500:1664-640-427-75/3ed0a.jpg",
+            "publishedAt": "2023-03-16T06:00:26+00:00",
+            "content": "Ligue Europa : 8e de finale 8e de finale \r\n- Betis Séville - Manchester United : à 18h45 en direct sur RMC Sport 1 - Fribourg - Juventus Turin : à 18h45 en direct sur RMC Sport Live 3 - Fenerbahçe - … [+435 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Brighton maintain European push with win over Palace",
+            "description": "Brighton maintain their pursuit of European football with a narrow Premier League win over struggling rivals Crystal Palace.",
+            "url": "http://www.bbc.co.uk/sport/football/62859264",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/03E7/production/_128999900_gettyimages-1473764727.jpg",
+            "publishedAt": "2023-03-15T21:52:26.5108613Z",
+            "content": "Brighton have scored 10 goals in the first 15 minutes of games this season\r\nBrighton maintained their pursuit of European football with a narrow Premier League win over struggling rivals Crystal Pala… [+4785 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
